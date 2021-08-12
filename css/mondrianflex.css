@@ -1,0 +1,88 @@
+#flexpainting {
+    background-color: #b9b9ec;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #880e0e;
+    display: flex;
+    flex-direction:column;
+    justify-content: Flex-start;
+    align-items: stretch;
+}
+
+#row1flex{
+    flex:72.5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: stretch;
+
+}
+
+#row1aflex{
+    flex: 25%;
+    display: flex;
+    flex-direction:column;
+    justify-content: Flex-start;
+    align-items: stretch; 
+    
+}
+
+#row1a1flex{
+    flex: 48.2%   
+}
+#row1a2flex{
+    flex: 3.4%   
+}
+#row1a3flex{
+    flex: 48.2%   
+}
+
+#row1bflex{
+    flex:2.5%
+}
+#row1cflex{
+    flex: 72.5%
+}
+#row2flex{
+    flex:2.5%;
+}
+
+#row3flex{
+    flex:25%;
+    display: flex;
+    flex-direction:row;
+    justify-content: Flex-start;
+    align-items: stretch; 
+}
+
+#row3aflex{
+    flex:25%;
+}
+#row3bflex{
+    flex:2.5%;
+}
+#row3cflex{
+    flex:66.666%;
+}
+#row3dflex{
+    flex:2.5%;
+}
+#row3eflex{
+    flex:5.1%;
+    display: flex;
+    flex-direction:column;
+    justify-content: Flex-start;
+    align-items: stretch; 
+}
+#row3e1flex{
+    flex:45%
+}
+#row3e2flex{
+    flex:10%
+}
+#row3e3flex{
+    flex:45%
+}
